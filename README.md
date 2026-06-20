@@ -1,18 +1,18 @@
 <p align = center >
-  <img src="https://cdn.corenexis.com/f/6wshkwwmv5Y.jpg">
+  <img src="https://cdn.discordapp.com/attachments/1067823764869480590/1100596105596641290/New_Project.png">
 </p>
 
 <div>
-<img align="right" width="400" alt="Yanexx" src="https://cdn.corenexis.com/f/faGvse8vLjj.jpg"/>
+<img align="right" width="400" alt="Yanexx" src="https://media.discordapp.net/attachments/1000261872827768872/1100596752068919368/d2a0975e5f0b77805ac122c36eaec671.jpg"/>
 
 <h2> // about-me </h2>
 
-- 💗 20 | Aclan Philippines
+- 💗 20 | Aclan Nasipit ADN
 - 🧊 <a href="https://discord.gg/revshit">Revshit 神</a>
 
 <h2> // socials </h2>
 
-
+- <a href="https://youtube.com/@zdevilish1337">YouTube</a>
 - <a href="https://t.me/devykindasus">Telegram</a>
 
 <h2> // revshit </h2>
