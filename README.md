@@ -1,5 +1,5 @@
 <p align = center >
-  <img src="https://cdn.discordapp.com/attachments/1067823764869480590/1100596105596641290/New_Project.png">
+  <img src="https://cdn.corenexis.com/f/6wshkwwmv5Y.jpg">
 </p>
 
 <div>
